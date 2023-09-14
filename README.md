@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **amritanshubaranwal09@gmail.com**
 
-- ⚡ Fun fact **You can not get a coffee just by writing an email but you can get a coding buddy.**
+- ⚡ Fun fact **You can not get a coffee ☕ just by writing an email but you can get
+          a coder buddy 👨🏻‍💻.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
