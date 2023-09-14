@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Amritanshu</h1>
 <h3 align="center">A passionate learner and software developer from India.</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="33%" align="right"   src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" >
+
+
+```yaml
+<Bio>:
+   
+    👩🏻‍💻Name: "Amritanshu Baranwal"
+    📚Education: "B.Tech | CSE"
+    🏡Location: "Azamgarh, India" 
+```
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 - 📫 How to reach me **amritanshubaranwal09@gmail.com**
 
