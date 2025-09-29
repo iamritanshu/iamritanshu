@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amritanshu</h1>
-<h3 align="center">A passionate learner and software developer from India.</h3>
+<h3 align="center">A passionate learner and full-stack software developer from India.</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img width="33%" align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
             alt="language"
@@ -9,8 +9,8 @@
 <Bio>:
    
     👩🏻‍💻Full Name: "Amritanshu Baranwal"
-    📚Education: "B.Tech | CSE"
-    🏡Location: "Gr. Noida, India" 
+    📚Profession: "Fullstack Developer"
+    🏡Location: "New Delhi, India" 
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
